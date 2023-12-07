@@ -1,0 +1,3 @@
+﻿  area.cpp
+C:\Users\DEll\source\repos\finding area of square , rectangle,& circle\finding area of square , rectangle,& circle\area.cpp(14,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  finding area of square , rectangle,& circle.vcxproj -> C:\Users\DEll\source\repos\finding area of square , rectangle,& circle\x64\Debug\finding area of square , rectangle,& circle.exe
